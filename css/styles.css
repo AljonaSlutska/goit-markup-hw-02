@@ -102,7 +102,7 @@ color: #434455;
 }
 
 .team {
-background-color: #fff;
+background-color: #F4F4FD;
 }
 
 .team-title {
@@ -112,6 +112,10 @@ letter-spacing: 0.02em;
 text-align: center;
 text-transform: capitalize;
 color: #2e2f42;
+}
+
+.team-list {
+background-color: #FFFFFF;
 }
 
 .team-subtitle {
